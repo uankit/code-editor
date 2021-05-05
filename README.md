@@ -1,6 +1,6 @@
 # Demo of the project can be found at 
 
-[Appointment Manager](https://code--editor.herokuapp.com/)
+[CodePen Clone](https://code--editor.herokuapp.com/)
 
 
 # Getting Started with Create React App
